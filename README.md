@@ -40,5 +40,5 @@
 
 
 ---------------
-:wrench:[on Github](https://github.com/amanlikeair/Charles_SHI_Blog/tree/main)
+ -- View On [Github](https://github.com/amanlikeair/Charles_SHI_Blog/tree/main)
 
