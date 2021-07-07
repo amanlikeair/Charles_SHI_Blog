@@ -1,5 +1,4 @@
-# [Charles_SHI_Blog](https://github.com/amanlikeair/Charles_SHI_Blog)
-
+# [Charles_SHI_Blog](https://amanlikeair.github.io/Charles_SHI_Blog/)
 ---------------
 
 ## Posts
@@ -36,4 +35,10 @@
 
 [Thesis ''Hyperspectral Image Classification Using Deep Neural Network''](https://github.com/amanlikeair/Charles_SHI_Blog/blob/main/Posts/Thesis.md)
 
+
+
+
+
+---------------
+:wrench:[on Github](https://github.com/amanlikeair/Charles_SHI_Blog/tree/main)
 
