@@ -1,15 +1,6 @@
----
-title: REST and API
-date: 2020-10-05 17:01:35
-tags:
-- Self Learning
-- Note
-- Web App
-- REST
-categories:
-- Developer
-- Web App
----
+[< Home](https://amanlikeair.github.io/Charles_SHI_Blog/)
+
+
 
 # REST笔记
 代码实践在文件中Wiki-API文件夹中.
