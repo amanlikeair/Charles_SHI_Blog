@@ -1,16 +1,6 @@
----
-title: MongoDB
-date: 2020-10-05 16:59:14
-tags:
-- Self Learning
-- Note
-- Web App
-- MongoDB
-- Database
-categories:
-- Developer
-- Web App
----
+[< Home](https://amanlikeair.github.io/Charles_SHI_Blog/)
+
+
 
 # MongoDB笔记
 
