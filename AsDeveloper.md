@@ -1,9 +1,5 @@
 
-# [Charles_SHI_Blog](https://amanlikeair.github.io/Charles_SHI_Blog/)
----------------
-
-
-
+### [:arrow_left:Home](https://amanlikeair.github.io/Charles_SHI_Blog/)
 ### As a Developer
 
 [Authentication & Sercurity](https://amanlikeair.github.io/Charles_SHI_Blog/Posts/Authentication-Sercurity.html)
