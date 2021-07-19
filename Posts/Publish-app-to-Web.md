@@ -1,16 +1,6 @@
----
-title: Publish app to Web
-date: 2020-10-05 16:49:31
-banner_img: 
-tags:
-- Self Learning
-- Note
-- Web App
-- Heroku
-categories:
-- Developer
-- Web App
----
+[< Home](https://amanlikeair.github.io/Charles_SHI_Blog/)
+
+
 
 # app发布至网络_Heroku为例
 
