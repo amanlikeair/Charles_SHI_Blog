@@ -1,13 +1,6 @@
----
-title: Thesis ''Hyperspectral Image Classification Using Deep Neural Network''
-date: 2020-09-20 17:42:37
-tags:
-- Thesis
-- USYD
-categories:
-- Scholar
-- Thesis
----
+[< Home](https://amanlikeair.github.io/Charles_SHI_Blog/)
+
+
 
 # Introduction
 
