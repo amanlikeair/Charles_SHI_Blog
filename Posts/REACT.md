@@ -1,15 +1,5 @@
----
-title: REACT
-date: 2020-10-05 16:59:44
-tags:
-- Self Learning
-- Note
-- Web App
-- REACT
-categories:
-- Developer
-- Web App
----
+[< Home](https://amanlikeair.github.io/Charles_SHI_Blog/)
+
 
 # REACT.js笔记
 
