@@ -1,15 +1,6 @@
----
-title: JavaScript code Example
-date: 2020-10-05 16:58:27
-tags:
-- Self Learning
-- Note
-- Web App
-- JavaScript
-categories:
-- Developer
-- Web App
----
+[< Home](https://amanlikeair.github.io/Charles_SHI_Blog/)
+
+
 
 
 # JS代码案例
