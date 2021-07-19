@@ -5,6 +5,10 @@
 
 ## As a Developer
 
+[Simple Blog on Github Page本博客说明书](https://amanlikeair.github.io/Charles_SHI_Blog/Posts/Simple%20Blog%20on%20Github%20Page.html)
+
+MarkDown .md in Gitihub: <a href="https://guides.github.com/features/mastering-markdown/" target="_blank">"Mastering Markdown"</a>
+
 [Authentication & Sercurity](https://amanlikeair.github.io/Charles_SHI_Blog/Posts/Authentication-Sercurity.html)
 
 [Create a SignUp page for Web App](https://amanlikeair.github.io/Charles_SHI_Blog/Posts/Create-a-SignUp-page-for-Web-App.html)
