@@ -1,3 +1,6 @@
+
+[< Home](https://amanlikeair.github.io/Charles_SHI_Blog/) 
+
 ---
 title: Authentication & Sercurity
 date: 2020-10-05 16:52:03
