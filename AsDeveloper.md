@@ -7,24 +7,24 @@
 
 [Authentication & Sercurity](https://amanlikeair.github.io/Charles_SHI_Blog/Posts/Authentication-Sercurity.html)
 
-[Create a SignUp page for Web App](https://github.com/amanlikeair/Charles_SHI_Blog/blob/main/Posts/Create-a-SignUp-page-for-Web-App.md)
+[Create a SignUp page for Web App](https://amanlikeair.github.io/Charles_SHI_Blog/Posts/Create-a-SignUp-page-for-Web-App.html)
 
-[Database & SQL](https://github.com/amanlikeair/Charles_SHI_Blog/blob/main/Posts/Database-SQL.md)
+[Database & SQL](https://amanlikeair.github.io/Charles_SHI_Blog/Posts/Database-SQL.html)
 
-[EJS](https://github.com/amanlikeair/Charles_SHI_Blog/blob/main/Posts/EJS.md)
+[EJS](https://amanlikeair.github.io/Charles_SHI_Blog/Posts/EJS.html)
 
-[Hexo Get Started](https://github.com/amanlikeair/Charles_SHI_Blog/blob/main/Posts/Hexo%20Get%20Started.md)
+[Hexo Get Started](https://amanlikeair.github.io/Charles_SHI_Blog/Posts/Hexo%20Get%20Started.html)
 
-[Initialize a Web App](https://github.com/amanlikeair/Charles_SHI_Blog/blob/main/Posts/Initialize%20a%20Web%20App.md)
+[Initialize a Web App](https://amanlikeair.github.io/Charles_SHI_Blog/Posts/Initialize%20a%20Web%20App.html)
 
-[JavaScript code Example](https://github.com/amanlikeair/Charles_SHI_Blog/blob/main/Posts/JavaScript-code-Example.md)
+[JavaScript code Example](https://amanlikeair.github.io/Charles_SHI_Blog/Posts/JavaScript-code-Example.html)
 
-[MongoDB](https://github.com/amanlikeair/Charles_SHI_Blog/blob/main/Posts/MongoDB.md)
+[MongoDB](https://amanlikeair.github.io/Charles_SHI_Blog/Posts/MongoDB.html)
 
-[Publish app to Web](https://github.com/amanlikeair/Charles_SHI_Blog/blob/main/Posts/Publish-app-to-Web.md)
+[Publish app to Web](https://amanlikeair.github.io/Charles_SHI_Blog/Posts/Publish-app-to-Web.html)
 
-[REACT project: Keeper](https://github.com/amanlikeair/Charles_SHI_Blog/blob/main/Posts/REACT-project-Keeper.md)
+[REACT project: Keeper](https://amanlikeair.github.io/Charles_SHI_Blog/Posts/REACT-project-Keeper.html)
 
-[REACT](https://github.com/amanlikeair/Charles_SHI_Blog/blob/main/Posts/REACT.md)
+[REACT](https://amanlikeair.github.io/Charles_SHI_Blog/Posts/REACT.html)
 
-[REST and API](https://github.com/amanlikeair/Charles_SHI_Blog/blob/main/Posts/REST%20and%20API.md)
+[REST and API](https://amanlikeair.github.io/Charles_SHI_Blog/Posts/REST%20and%20API.html)
