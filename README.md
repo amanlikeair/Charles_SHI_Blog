@@ -5,7 +5,7 @@
 
 ### As a Developer
 
-[Authentication & Sercurity](https://github.com/amanlikeair/Charles_SHI_Blog/blob/main/Posts/Authentication-Sercurity.md)
+[Authentication & Sercurity](https://amanlikeair.github.io/Charles_SHI_Blog/Posts/Authentication-Sercurity.html)
 
 [Create a SignUp page for Web App](https://github.com/amanlikeair/Charles_SHI_Blog/blob/main/Posts/Create-a-SignUp-page-for-Web-App.md)
 
