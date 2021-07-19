@@ -1,5 +1,5 @@
 
-[< Home](https://amanlikeair.github.io/Charles_SHI_Blog/) 
+[Home Page](https://amanlikeair.github.io/Charles_SHI_Blog/) 
 
 -------------------
 
