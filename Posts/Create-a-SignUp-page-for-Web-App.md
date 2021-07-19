@@ -1,14 +1,6 @@
----
-title: Create a SignUp page for Web App
-date: 2020-10-05 16:18:57
-tags:
-- Self Learning
-- Note
-- Web App
-categories:
-- Developer
-- Web App
----
+[< Home](https://amanlikeair.github.io/Charles_SHI_Blog/)
+
+
 # 新建signUp页面为例
 
 
