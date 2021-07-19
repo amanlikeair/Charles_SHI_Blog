@@ -1,14 +1,5 @@
----
-title: Initialize a Web App
-date: 2020-10-05 15:53:53
-tags:
-- Self Learning
-- Note
-- Web App
-categories:
-- Developer
-- Web App
----
+[< Home](https://amanlikeair.github.io/Charles_SHI_Blog/)
+
 
 ****
 课程
