@@ -1,15 +1,5 @@
----
-title: Database & SQL
-date: 2020-10-05 16:53:56
-tags:
-- Self Learning
-- Note
-- Web App
-- Database
-categories:
-- Developer
-- Web App
----
+[< Home](https://amanlikeair.github.io/Charles_SHI_Blog/)
+
 
 
 # Database以及SQL笔记
