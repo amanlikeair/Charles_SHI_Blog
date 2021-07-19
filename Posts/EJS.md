@@ -1,15 +1,5 @@
----
-title: EJS
-date: 2020-10-05 16:55:32
-tags:
-- Self Learning
-- Note
-- Web App
-- EJS
-categories:
-- Developer
-- Web App
----
+[< Home](https://amanlikeair.github.io/Charles_SHI_Blog/)
+
 
 
 # EJS相关笔记
