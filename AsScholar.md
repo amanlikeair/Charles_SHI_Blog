@@ -5,5 +5,5 @@
 
 ## As a Scholar
 
-[Thesis ''Hyperspectral Image Classification Using Deep Neural Network''](https://github.com/amanlikeair/Charles_SHI_Blog/blob/main/Posts/Thesis.md)
+[Thesis ''Hyperspectral Image Classification Using Deep Neural Network''](https://amanlikeair.github.io/Charles_SHI_Blog/Posts/Thesis.html)
 
