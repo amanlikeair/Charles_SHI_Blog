@@ -3,8 +3,12 @@
 
 -------------------
 
-![Image of Yaktocat](https://media.tenor.com/images/cfb66c6a8239a9427da6ff5437aef7ee/tenor.gif) | Hi, Welcome to Charles Yiding's Site. I don't know where to go, but you surely you can find my every step here.
------------- | -------------
+![Image of Yaktocat](https://media.tenor.com/images/cfb66c6a8239a9427da6ff5437aef7ee/tenor.gif)
+
+>Hi, Welcome to Charles Yiding's Site. 
+>
+>I don't know where to go, but you surely can find my every step here.
+
 
 >Thinking will not overcome fear but action will.
 
