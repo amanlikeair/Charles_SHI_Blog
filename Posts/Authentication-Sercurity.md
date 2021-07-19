@@ -1,17 +1,6 @@
+[< Home](https://amanlikeair.github.io/Charles_SHI_Blog/)
 
-[< Home](https://amanlikeair.github.io/Charles_SHI_Blog/) 
 
----
-title: Authentication & Sercurity
-date: 2020-10-05 16:52:03
-tags:
-- Self Learning
-- Note
-- Web App
-categories:
-- Developer
-- Web App
----
 # Authentication & Sercurity笔记
 
 
