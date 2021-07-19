@@ -7,4 +7,7 @@
 
 ##### [As a Player](https://amanlikeair.github.io/Charles_SHI_Blog/AsPlayer.html)
 
+##### [As a Reader](https://amanlikeair.github.io/Charles_SHI_Blog/AsReader.html)
+
 ##### [As a Scholar](https://amanlikeair.github.io/Charles_SHI_Blog/AsScholar.html)
+
