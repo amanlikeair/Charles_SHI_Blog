@@ -1,13 +1,6 @@
----
-title: Hexo Get Started
-date: 2020-10-03 15:00:22
-tags:
-- Hexo
-- Blog
-categories:
-- Developer
-- Blog with Hexo
----
+[< Home](https://amanlikeair.github.io/Charles_SHI_Blog/)
+
+
 Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
 
 ## Quick Start
