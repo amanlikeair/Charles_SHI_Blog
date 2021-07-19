@@ -12,3 +12,6 @@
 在百度网盘就可以看到红色按钮【简易下载助手】
 
 点击, 跳转如Aria 2 下载.
+
+
+<a href="http://example.com/" target="_blank">Hello, world!</a>
