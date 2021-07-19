@@ -3,8 +3,8 @@
 
 -------------------
 
-##### [As a Developer](./AsDeveloper.html)
+##### [As a Developer](https://amanlikeair.github.io/Charles_SHI_Blog/AsDeveloper.html)
 
-##### [As a Player](./AsPlayer.html)
+##### [As a Player](https://amanlikeair.github.io/Charles_SHI_Blog/AsPlayer.html)
 
-##### [As a Scholar](./AsScholar.html)
+##### [As a Scholar](https://amanlikeair.github.io/Charles_SHI_Blog/AsScholar.html)
