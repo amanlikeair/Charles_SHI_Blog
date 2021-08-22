@@ -11,3 +11,6 @@
 
 
 [使用TamperMonkey下载百度网盘](https://amanlikeair.github.io/Charles_SHI_Blog/Posts/TamperMonkey%E4%B8%8B%E8%BD%BD%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98.html)
+
+[随机邮箱地址生成器](https://amanlikeair.github.io/Charles_SHI_Blog/Posts/%E9%9A%8F%E6%9C%BA%E9%82%AE%E7%AE%B1-%E9%9A%8F%E6%9C%BA%E5%9C%B0%E5%9D%80%E7%94%9F%E6%88%90%E5%99%A8.html)
+
